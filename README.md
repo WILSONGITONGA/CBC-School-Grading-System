@@ -19,6 +19,7 @@ The initiative began with comprehensive research to understand the unique challe
 2.	**System Development:**
 - Created an Excel-based grading system that includes features for inputting, calculating, and analyzing student grades.
 - Ensured the system allows for customization to accommodate various grading criteria and policies used by different schools.
+  ![Grading System](https://github.com/WILSONGITONGA/CBC-School-Grading-System/blob/main/CBC%20Grading%20System.png)
 3.	**User Interface Design:**
 - Designed a user-friendly interface that is intuitive and easy to navigate, minimizing the learning curve for educators.
 - Incorporated visual aids (charts, graphs) to enhance data interpretation and presentation.
