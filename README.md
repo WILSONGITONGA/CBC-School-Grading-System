@@ -56,7 +56,7 @@ The initiative began with comprehensive research to understand the unique challe
 •	With features for tracking student performance over time, educators can make informed decisions based on data insights. This capability allows for targeted interventions and support for students who may be struggling.
 5.	**Increased Community Engagement:**
 •	By involving teachers and administrators in the development and implementation process, the project fosters a sense of ownership and community involvement. This engagement can lead to greater buy-in for the system and a collaborative approach to improving educational outcomes in rural areas.
-## Recommendations .
+## Recommendations.
 1.	**Ongoing Training and Support:**
 - Provide continuous training sessions and resources for educators to ensure they are fully equipped to use the grading system effectively. This could include workshops, video tutorials, and a dedicated helpdesk for troubleshooting.
 2.	**Regular Updates and Improvements:**
