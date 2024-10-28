@@ -23,6 +23,9 @@ The initiative began with comprehensive research to understand the unique challe
 3.	**User Interface Design:**
 - Designed a user-friendly interface that is intuitive and easy to navigate, minimizing the learning curve for educators.
 - Incorporated visual aids (charts, graphs) to enhance data interpretation and presentation.
+
+![Report Form](https://github.com/WILSONGITONGA/CBC-School-Grading-System/blob/main/Report%20Form.png)
+
 4.	**Functionality:**
 - Included essential functionalities such as: 
  o	 Grade entry and calculation.
