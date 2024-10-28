@@ -1,5 +1,10 @@
 # Table Of Content
 - [The Project Overview](#the-project-overview)
+- [Project Objectives](#project-objectives)
+- [Project Scope](#project-scope)
+- [Project Impact](#project-impact)
+- [Recommendations](#recommendations)
+- [Conclusion](#conclusion)
 
 # Revolutionizing Education in Rural Schools: An Excel-Based CBC Grading System.
 In many rural and marginalized areas of Kenya, advanced educational tools and software are often inaccessible, creating significant barriers to effective learning. Commercial grading software, while valuable, tends to be prohibitively expensive for schools with tight budgets. This project seeks to bridge this gap by developing a cost-effective, Excel-based grading system specifically designed for rural schools.
